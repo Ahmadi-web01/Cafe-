@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    object-fit: cover;
+}
+html{
+    scroll-behavior: smooth;
+}
+:root{
+    --white: #f5f7fb;
+    --span: rgb(114, 41, 23);
+    --text: gray;
+    --price: sienna;
+    --shadow: 0 0 24px rgba(44, 1, 1, 0.274);
+    --card: rgb(241, 234, 221);
+    --bg: #b68834;
+}
